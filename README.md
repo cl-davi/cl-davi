@@ -4,6 +4,12 @@
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows11)
 [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
 
+### GitHub Stats
+<div style>
+</div>
+
+![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=cl-davi&show_icons=true&theme=tokyonight)
+
 ### Linguagens de programação e tecnologias
 #### Frontend e Desenvolvimento Web
 <div style="displya: inline-block">

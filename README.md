@@ -1,17 +1,7 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil no GiHub!
-#### É uma honra tê-lo aqui
 
-### Sistemas Operacionais
+### Sistema Operacional
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows11)
-[![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
-
-### GitHub Stats
-<div align="center" style="width: 400px">
-
-![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=cl-davi&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cl-davi&theme=tokyonight)
-
-</div>
 
 ### Linguagens de programação e tecnologias
 #### Frontend e Desenvolvimento Web
@@ -61,3 +51,6 @@
         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
     >
 </div>
+
+### GitHub Stats
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=davidavp&theme=tokyonight)
